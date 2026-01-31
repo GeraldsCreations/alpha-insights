@@ -8,13 +8,13 @@ export const environment = {
   // Get these values from Firebase Console → Project Settings → General
   // Your apps → Web app → Firebase SDK snippet → Config
   firebase: {
-    apiKey: "YOUR_API_KEY",                          // e.g., "AIzaSyC..."
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",   // e.g., "alpha-insights.firebaseapp.com"
-    projectId: "YOUR_PROJECT_ID",                    // e.g., "alpha-insights"
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",    // e.g., "alpha-insights.appspot.com"
-    messagingSenderId: "YOUR_SENDER_ID",             // e.g., "123456789012"
-    appId: "YOUR_APP_ID",                            // e.g., "1:123456789012:web:abc123def456"
-    measurementId: "YOUR_MEASUREMENT_ID"             // Optional, e.g., "G-XXXXXXXXXX"
+    apiKey: "AIzaSyBnVoxuXvF1qDac2J5_h6inG89Wvm3aCmQ",
+  authDomain: "alpha-insights-84c51.firebaseapp.com",
+  projectId: "alpha-insights-84c51",
+  storageBucket: "alpha-insights-84c51.firebasestorage.app",
+  messagingSenderId: "1051741188643",
+  appId: "1:1051741188643:web:99d0e8a04315c34e7db796",
+  measurementId: "G-3S36N19CKD"
   },
   
   // External API Keys (if needed)
